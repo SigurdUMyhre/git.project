@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("Adding a new line");
 		System.out.println("New line");
 		System.out.println("R");
+		System.out.println("Ny linje");
 	}
 
 }

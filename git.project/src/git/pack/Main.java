@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Adding a line");
 		System.out.println("Adding a new line");
 		System.out.println("New line");
+		System.out.println("R");
 	}
 
 }
